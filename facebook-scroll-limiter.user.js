@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Limit your scrolling on facebook.com main pages; reset after idle, block when limit reached.
+// @author       Diana Täht (dianx93)
 // @match        https://www.facebook.com/*
 // @grant        none
 // ==/UserScript==
